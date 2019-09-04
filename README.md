@@ -1,4 +1,4 @@
 # hello-world
-first repository \n
+first repository 
 Shreya is a junior at JHU taking data science. 
-print('Hello world')
+Shreya is learning how to do this.
